@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">\QUEBRA-CABEÇA</string>
+    <string name="help">Ajuda</string>
+    <string name="new_game">Novo Jogo</string>
+    <string name="settings">Configurações</string>
+    
+    <string-array name="size_options">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    
+    
+</resources>
+
